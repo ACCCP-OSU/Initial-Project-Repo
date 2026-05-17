@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas Accessibility Converter"
+  short_description: "Convert course content into accessible Canvas-ready HTML."
+  default_prompt: "Use $canvas-accessibility-converter to convert this course content into accessible, mobile-responsive Canvas HTML with a broken-link report."
