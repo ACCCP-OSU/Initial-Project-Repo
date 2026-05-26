@@ -1,5 +1,8 @@
 # Capstone MVP: SSO Self-Service DOCX to Canvas HTML Platform
 
+Small note from Braedon: just added a dev folder with a route.ts file into auth so if you go to  http://localhost:3000/api/auth/dev it should redirect you to http://localhost:3000/dashboard
+
+---
 This implementation adds a full web platform alongside the original local scripts:
 
 - `Next.js` app (frontend + backend API)
